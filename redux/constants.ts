@@ -1,0 +1,8 @@
+const Type = {
+  REQUEST_POSTS: 'REQUEST_POSTS',
+  ADD_POST: 'ADD_POST',
+  UPDATE_POST: 'UPDATE_POST',
+  DELETE_POST: 'DELETE_POST',
+};
+
+export default Type;

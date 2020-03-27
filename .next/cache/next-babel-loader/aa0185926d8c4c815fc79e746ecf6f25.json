@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Type = {\n  REQUEST_POSTS: 'REQUEST_POSTS',\n  ADD_POST: 'ADD_POST',\n  UPDATE_POST: 'UPDATE_POST',\n  DELETE_POST: 'DELETE_POST'\n};\nexport default Type;","map":null,"metadata":{},"sourceType":"module"}
